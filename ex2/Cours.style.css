@@ -1,0 +1,77 @@
+h1 {
+    color: blue;
+}
+
+.logo{
+    background: url("logoEnsi\ \(1\).png");
+    float: left;
+    width: 150px;
+    height: 150px;
+    margin-top: 20px;
+    background-size:   165px auto  ;
+    background-position: 0px 35% ;
+    margin-left: 10px;
+}
+
+.titre {
+    text-align: center;
+    margin-top: 70px;
+}
+
+.fond{
+    background-color: #CCCC99;
+    border: 0.5px solid black;
+    height: 200px;
+}
+
+.middle {
+    margin-top: 25px;
+    display: flex;
+} 
+
+.gauche{
+    background-color: #33CCFF;
+    background-color: #CCFFFF;
+    width: 30%;
+    float: left;
+    border: 0.5px solid black;
+    padding-left: 10px;
+}
+
+.droite {
+    text-align: center;
+    margin-left: 25px;
+    width: 70%;
+    float: right;
+    border: 0.5px solid black;
+}
+
+footer {
+    margin-top: 25px;
+    border: 0.5px solid black;
+    justify-content: space-between;
+    
+    display: flex;
+   
+}
+nav{
+    display: flex;
+}
+
+table {
+    margin-left: 200px;
+    border-collapse:collapse;
+}
+
+
+
+table, td, tr {
+    border: 1px solid black;
+  }
+
+  ul {
+    list-style-image: url(puce.png);
+    margin-left: 20px;
+    
+  }
+

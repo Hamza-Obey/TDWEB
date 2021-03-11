@@ -1,0 +1,11 @@
+
+.myform label { 
+  display:inline-block;
+   width:100px; }
+.myform input[type=text] {
+   display:inline-block; }
+
+.formfield * {
+    vertical-align: top;
+  }
+
